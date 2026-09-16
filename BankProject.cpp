@@ -2,8 +2,7 @@
 #include "clsLoginScreen.h"
 using namespace std;
 
-templ
-ate <class t> class Headd
+template <class t> class Headd
 {
 	t x;
 
