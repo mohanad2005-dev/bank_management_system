@@ -1,0 +1,30 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+
+# Compiled files
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.lib
+
+# Visual Studio build logs
+*.log
+*.tlog
+*.lastbuildstate
+*.recipe
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
